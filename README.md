@@ -1,5 +1,3 @@
-# Intellihack_The_Code_Rushers_04
-
 # Stock Price Prediction
 
 ## Overview
